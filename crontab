@@ -1,0 +1,1 @@
+*/3 * * * * pkill -0 keepalived || /etc/init.d/keepalived start &>/dev/null
