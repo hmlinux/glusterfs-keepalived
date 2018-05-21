@@ -83,5 +83,6 @@ GFS数据存储分区准备
 使用VIP挂载GFS挂载卷
     
     mount -t glusterfs 192.168.2.220:rep_vol1 /data/
+    echo "192.168.2.220:rep_vol1    /data/leedage/logs    glusterfs    defaults      0 0" >> /etc/fstab
 
 
