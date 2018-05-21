@@ -1,4 +1,4 @@
-## GlusterFS分布式存储应用 - 复制卷基于Keepalived高可用
+## GlusterFS(GFS)分布式存储应用 - 复制卷基于Keepalived高可用
 
 ### GlusterFS
 
